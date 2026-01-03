@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+dist/
+build/
+
+# env files
+.env*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# caches
+.eslintcache
+.turbo/
+.vercel/
